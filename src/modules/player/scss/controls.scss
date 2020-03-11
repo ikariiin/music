@@ -1,0 +1,19 @@
+.controls-container {
+  display: flex;
+  justify-content: space-around;
+  
+  .player-control-button {
+    background: rgba(255,255,255,.1);
+    border: 2px solid #ffffff;
+    font-size: 1.5rem;
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    cursor: pointer;
+    outline: none;
+  }
+}

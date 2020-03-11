@@ -1,0 +1,16 @@
+.player-sidebar {
+  padding: 3rem;
+  height: calc(100vh - 6rem);
+
+  .player-header {
+    font-size: 1.8rem;
+    display: flex;
+    align-content: center;
+    font-weight: 300;
+    justify-content: center;
+
+    .icon {
+      margin-right: .5rem;
+    }
+  }
+}
