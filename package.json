@@ -27,7 +27,7 @@
     "mobx": "^5.15.4",
     "mobx-state-tree": "^3.15.0",
     "music-metadata": "^6.3.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2",
     "office-ui-fabric-react": "^7.98.2",
     "react": "^16.13.0",
